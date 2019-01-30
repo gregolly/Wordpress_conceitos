@@ -7,6 +7,7 @@
 	</head>
 	<body>
 		<h2>Bem Vindos ao primeiro tema</h2>
+		<p>so para enviar no git</p>
 
 		<?php while (have_posts()) : the_post(); ?>
 
